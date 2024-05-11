@@ -1,0 +1,27 @@
+body{
+    background-color: aqua;
+}
+/* 
+p{
+    border: 1px solid black;
+}
+
+.grp1{
+    background-color:red ;
+}
+
+.grp2{
+    background-color:rgb(163, 183, 91) ;
+}
+
+#code{
+    font-size: 150%;
+} */
+
+h1{
+    border: solid 1px black;
+    /* margin: 24%; */
+    margin-bottom: 10%;
+    padding-left: 4%;
+}
+
